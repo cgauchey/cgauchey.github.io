@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-I am currently a pursuing an MS in Computer Science at Columbia University with a focus on Machine Learning. Prior to Columbia, I worked at JPMorgan as a software engineer for three years in the Corporate & Investment Bank and New Product Development (AR/VR). I graduated from Barnard in 2019 with a Bachelor of Arts in Economics and Psychology. I am originally from San Francisco and currently reside in New York City. 
+I am currently a pursuing an MS in Computer Science at Columbia University with a focus on Machine Learning. Prior to Columbia, I worked at JPMorgan as a software engineer for three years in the Corporate & Investment Bank and New Product Development (AR/VR). I graduated from Barnard College in 2019 with a Bachelor of Arts in Economics and Psychology. I am originally from San Francisco and currently reside in New York City. 
 
 ## About My Advisor
 
